@@ -705,6 +705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
+  [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
+  🔓 - Timestamped transcripts, chapters and clip ideas from a public YouTube, Twitch, Kick or TikTok link; no captions needed.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
